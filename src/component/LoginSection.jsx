@@ -17,6 +17,7 @@ import {
 } from "@chakra-ui/react";
 import { FaUser } from 'react-icons/fa';
 import { Link } from "react-router-dom";
+
  const LoginSection=()=> {
   const { isOpen, onOpen, onClose } = useDisclosure();
    const [open,setOpen]=useState(false)

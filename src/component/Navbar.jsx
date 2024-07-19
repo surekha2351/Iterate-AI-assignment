@@ -1,6 +1,6 @@
-import { Box, Button, Flex, Heading, HStack, Image, Link, Text } from '@chakra-ui/react'
+import { Box, Button, Flex, Heading, HStack, Image, Link } from '@chakra-ui/react'
 import React from 'react'
-import { ChevronDownIcon, CalendarIcon, InfoIcon, TimeIcon } from "@chakra-ui/icons";
+import { ChevronDownIcon } from "@chakra-ui/icons";
 import LoginSection from './LoginSection';
 import '../../src/App.css'
 
